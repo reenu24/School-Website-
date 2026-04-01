@@ -4,31 +4,19 @@ title: Home
 ---
 
 <style>
-.hero {
-  text-align: center;
-  padding: 60px;
-  background: linear-gradient(to right, #4facfe, #00f2fe);
-  color: white;
-  border-radius: 10px;
-}
-.btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background: white;
-  color: #333;
-  border-radius: 5px;
-  text-decoration: none;
-  margin-top: 10px;
-}
-.section {
-  margin: 40px 0;
-}
-.card {
-  padding: 20px;
-  border-radius: 10px;
-  background: #f5f5f5;
-  margin: 10px 0;
-}
+  .hero { 
+    text-align: center; 
+    padding: 60px; 
+    background: linear-gradient(to right, #4facfe, #00f2fe); 
+    color: white; 
+    border-radius: 10px; 
+  }
+  .card { 
+    padding: 20px; 
+    border-radius: 10px; 
+    background: #f5f5f5; 
+    margin: 10px 0; 
+  }
 </style>
 
 <div class="hero">
