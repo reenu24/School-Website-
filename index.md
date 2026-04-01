@@ -10,28 +10,23 @@ title: Home
     background: linear-gradient(to right, #4facfe, #00f2fe); 
     color: white; 
     border-radius: 10px; 
+    margin-bottom: 20px;
   }
   .card { 
     padding: 20px; 
     border-radius: 10px; 
     background: #f5f5f5; 
     margin: 10px 0; 
+    border: 1px solid #ddd;
   }
 </style>
 
-<div class="hero">
-  <h1>🎓 My School</h1>
-  <p>Welcome to our modern school website</p>
-  <a href="blog.html" class="btn">Read Blog</a>
-</div>
+<section class="hero">
+  <h1>My School</h1>
+  <p>Welcome to our modern school website.</p>
+</section>
 
-<div class="section">
-  <h2>📢 Latest Updates</h2>
-  <div class="card">Annual Day Celebration 🎉</div>
-  <div class="card">Sports Day 🏃</div>
-</div>
-
-<div class="section">
-  <h2>📚 About Us</h2>
-  <p>We provide quality education with modern learning methods.</p>
+<div class="card">
+  <h3>Latest Updates</h3>
+  <p>Check here for the newest announcements.</p>
 </div>
