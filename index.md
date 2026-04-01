@@ -20,7 +20,7 @@ title: Home
   text-decoration: none;
   margin-top: 10px;
 }
-.section {
+section {
   margin: 40px 0;
 }
 .card {
