@@ -3,23 +3,8 @@ layout: default
 title: Home
 ---
 
-<style>
-  .hero { 
-    text-align: center; 
-    padding: 60px; 
-    background: linear-gradient(to right, #4facfe, #00f2fe); 
-    color: white; 
-    border-radius: 10px; 
-    margin-bottom: 20px;
-  }
-  .card { 
-    padding: 20px; 
-    border-radius: 10px; 
-    background: #f5f5f5; 
-    margin: 10px 0; 
-    border: 1px solid #ddd;
-  }
-</style>
+<!-- CSS फाइल को लिंक करना (सुनिश्चित करें कि style.css उसी फोल्डर में है) -->
+<link rel="stylesheet" href="style.css">
 
 <section class="hero">
   <h1>My School</h1>
@@ -28,5 +13,14 @@ title: Home
 
 <div class="card">
   <h3>Latest Updates</h3>
-  <p>Check here for the newest announcements.</p>
+  <p>हमारी स्कूल वेबसाइट के नए अपडेट यहाँ देखें।</p>
+  <div class="links">
+    <a href="#" class="btn">Read Blog</a>
+    <a href="#" class="btn">School Profile</a>
+  </div>
+</div>
+
+<div class="card">
+  <h3>Contact Us</h3>
+  <p>Email: info@myschool.com</p>
 </div>
