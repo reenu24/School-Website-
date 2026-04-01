@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- CSS फाइल को लिंक करना (सुनिश्चित करें कि style.css उसी फोल्डर में है) -->
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="./style.css">
 
 <section class="hero">
   <h1>My School</h1>
