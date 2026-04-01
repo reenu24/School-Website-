@@ -7,7 +7,7 @@ title: Home
 .hero {
   text-align: center;
   padding: 60px;
-  background: linear-gradient(to right, #4facfe, #00f2fe);
+  background: linear-gradient(to right, #4facfe, #ffffff);
   color: white;
   border-radius: 10px;
 }
