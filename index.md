@@ -13,7 +13,7 @@ title: Home
 
 <div class="card">
   <h3>Latest Updates</h3>
-  <p>हमारी स्कूल वेबसाइट के नए अपडेट यहाँ देखें।</p>
+  <p>For School Activities check our website </p>
   <div class="links">
     <a href="#" class="btn">Read Blog</a>
     <a href="#" class="btn">School Profile</a>
