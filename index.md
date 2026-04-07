@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- CSS फाइल को लिंक करना (सुनिश्चित करें कि style.css उसी फोल्डर में है) -->
-<link rel="stylesheet" href="https://github.com/reenu24/School-Website-/commit/b0e9ba71fc9106cf45a2f495d42135ed65c5d0c8">
+<link rel="stylesheet" href="">
 
 <section class="hero">
   <h1>My School</h1>
